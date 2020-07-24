@@ -15,4 +15,4 @@ There are three data files, two replication code files, and one variable descrip
 - "Reproduce_multivariate analysis.R" contains R code necessary to replicate the multivariate analysis (MLE models) for the list experiments.
 
 # Variable description
-- Describes variables in all data files.
+- "Variable description" describes variables in all data files.
