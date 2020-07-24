@@ -1,0 +1,34 @@
+# Variables and description for data files for panels A-C.
+
+"treat” = indicates whether respondent assigned to treatment or control group
+0 = control group (no sensitive item)
+1 = defector-migrant sensitive time
+2 = all immigrants (panels A and B); Chinese Koreans (panel C)
+
+“y” = Number of items chosen by respondent from the list
+
+“direct_defectors”  = indicates whether respondent opposes halting all North Korean defector-migrants form entering South Korea (1), else 0.
+
+“direct_allimm”  = indicates whether respondent opposes halting all immigration to South Korea (1), else 0.
+
+“age" = age of respondent
+
+"age10" = age divided by 10
+
+“college" = indicates whether respondent has some college education (1), else 0.
+
+“progressive“ = indicates whether respondent identifies as politically progressive (1), else 0.
+
+“centrist“ = indicates whether respondent identifies as politically centrist (1), else 0.
+
+“conservative“ = indicates whether respondent identifies as politically conservative (1), else 0.
+
+"male" = indicates whether respondent identifies as male (1), else 0 (female). 
+
+
+
+
+
+
+
+
