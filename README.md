@@ -7,10 +7,10 @@ The abstract is as follows:
 
 There are three data files, two replication code files, and one variable description file.
 
-# Data files
+# Data
 - "PanelA.Rdata, "PanelB.RData," and "PanelC.RData" are the data files for each panel analyzed in the paper.
 
-# .R code
+# R code
 - "Reproduce_difference-in-means.R" contains R code needed to replicate the difference-in-means graph(s) for the list experiments.
 - "Reproduce_multivariate analysis.R" contains R code necessary to replicate the multivariate analysis (MLE models) for the list experiments.
 
