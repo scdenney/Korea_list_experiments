@@ -1,4 +1,7 @@
 # Korea_list_experiments
+
+[![DOI: Paper](https://img.shields.io/badge/DOI-10.1080%2F1369183X.2020.1797477-blue?style=flat-square)](https://doi.org/10.1080/1369183X.2020.1797477) [![Open Science](https://img.shields.io/badge/Open_Science-Replication_Materials-brightgreen?style=flat-square&logo=opensourceinitiative&logoColor=white)](https://github.com/scdenney/Korea_list_experiments)
+
 Replication materials for “The Limits of Ethnic Capital: Impacts of Social Desirability on Korean Views of Co-Ethnic Immigration," a paper by Steven Denney (University of Toronto), Peter Ward (Vienna University), and Christopher Green (Leiden University).
 
 Source and citation:
